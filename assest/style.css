@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins";
+}
+/* ******************** Common **************** */
+a {
+  text-decoration: none;
+}
+.btn {
+  display: inline-block;
+  min-width: 186px;
+  line-height: 20px;
+  border-radius: 14px; /* Giữ giá trị này */
+  padding: 20px 41px;
+  color: #fff;
+  text-align: center;
+  font-style: normal;
+  line-height: 20px;
+  background: #1ebfc1;
+}
